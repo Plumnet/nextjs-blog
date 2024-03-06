@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 
+//変更してみます。
 export default function Home() {
   return (
     <div className={styles.container}>
